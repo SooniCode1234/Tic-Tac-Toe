@@ -11,6 +11,7 @@
 		CD6E665F263F69570062B119 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6E665E263F69570062B119 /* ContentView.swift */; };
 		CD6E6661263F69590062B119 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD6E6660263F69590062B119 /* Assets.xcassets */; };
 		CD6E6664263F69590062B119 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD6E6663263F69590062B119 /* Preview Assets.xcassets */; };
+		CD9046A826433C8C00DAFBC5 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9046A726433C8C00DAFBC5 /* Alerts.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CD6E6660263F69590062B119 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD6E6663263F69590062B119 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CD6E6665263F69590062B119 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD9046A726433C8C00DAFBC5 /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				CD6E665C263F69570062B119 /* Tic_Tac_ToeApp.swift */,
 				CD6E665E263F69570062B119 /* ContentView.swift */,
+				CD9046A726433C8C00DAFBC5 /* Alerts.swift */,
 				CD6E6660263F69590062B119 /* Assets.xcassets */,
 				CD6E6665263F69590062B119 /* Info.plist */,
 				CD6E6662263F69590062B119 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD6E665F263F69570062B119 /* ContentView.swift in Sources */,
+				CD9046A826433C8C00DAFBC5 /* Alerts.swift in Sources */,
 				CD6E665D263F69570062B119 /* Tic_Tac_ToeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
